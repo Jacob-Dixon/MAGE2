@@ -1,0 +1,25 @@
+=====BEGIN ERRATA DOCUMENTAION=====
+
+===BEGIN PIU===
+PCB's Version 2.x and lower are not reccommended for manufacturing.
+===END PIU===
+
+===BEGIN REF. WEAPON===
+--
+===END REF. WEAPON===
+
+===BEGIN Front IO PCB===
+PCB's manufactured prior to Revision 2 on 11/22/2015 are subject to the following Errata:
+1. RESET pin on connector not connected due to net mis-labeling. Through testing, it is found that it is best to have RESET tied to VCC. Revision 2 ties RESET to VCC and does not use the RESET pin on the connector.
+2. Part LED4 is flipped 180 degrees with respect to the other LED's. Follow dot markings in silk screen for correct orientation.
+===END Front IO PCB=== 
+
+===BEGIN IR DISTRO BOARD===
+1. The center hole on the the Distro board is designed for a 14.2mm hat button. Velcro is needed for mounting for any button smaller, and a hat with a larger button is not reccommended for the MAGE system.
+===END IR DISTRO BOARD===
+
+===BEGIN IR & HAPTIC FEEDBACK BOARD===	
+All revisions of the board are functional. Revision 2 has the silkscreen outline of the motor corrected to be on the front of the PCB.
+===END IR & HAPTIC FEEDBACK BOARD===
+
+=====END ERRATA DOCUMENTATION=====
