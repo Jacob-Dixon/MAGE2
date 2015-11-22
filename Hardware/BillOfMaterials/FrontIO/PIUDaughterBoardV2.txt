@@ -1,0 +1,19 @@
+Partlist exported from C:/Users/JD/Documents/GitHub/MAGE2/Hardware/HardwareSource/FrontIO/PIUDaughterBoardV2.sch at 11/22/2015 12:59 PM
+
+Part      Value      Device          Package       Description                                                                         PROD_ID   
+C1        4.7uF      C-USC0603       C0603         CAPACITOR, American symbol                                                                    
+C2        2.2uF      C-USC0603       C0603         CAPACITOR, American symbol                                                                    
+C3        2.2uF      C-USC0603       C0603         CAPACITOR, American symbol                                                                    
+C4        2.2uF      C-USC0603       C0603         CAPACITOR, American symbol                                                                    
+C5        .1uF       C-USC0603       C0603         CAPACITOR, American symbol                                                                    
+C6        .2uF       C-USC0603       C0603         CAPACITOR, American symbol                                                                    
+LED1      RGBLED5050 RGBLED5050      RGBLED5050    For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!           
+LED2      RGBLED5050 RGBLED5050      RGBLED5050    For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!           
+LED3      RGBLED5050 RGBLED5050      RGBLED5050    For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!           
+LED4      RGBLED5050 RGBLED5050      RGBLED5050    For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!           
+MB_CONN              M06SMD_MALE     1X06_SMD_MALE Header 6                                                                            CONN-11293
+POWER_LED            LEDCHIPLED_0805 CHIPLED_0805  LED                                                                                           
+R1        100R       R-US_R0603      R0603         RESISTOR, American symbol                                                                     
+TEAM_LED  RGBLED5050 RGBLED5050      RGBLED5050    For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!           
+U$1       TSOP75S40F TSOP75S40F      TSOP75S40F                                                                                                  
+U$3       LTC3220    LTC3220         LTC3220                                                                                                     

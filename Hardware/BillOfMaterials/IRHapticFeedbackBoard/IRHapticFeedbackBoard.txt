@@ -1,0 +1,12 @@
+Partlist exported from C:/Users/JD/Documents/GitHub/MAGE2/Hardware/HardwareSource/IRHapticFeedbackBoard/IRHapticFeedbackBoard.sch at 11/22/2015 1:01 PM
+
+Part     Value      Device        Package    Description                          
+C1       .2uF       C-USC0603     C0603      CAPACITOR, American symbol           
+C2       .1uF       C-USC0603     C0603      CAPACITOR, American symbol           
+D1       1N4448W    DIODE-SOD-123 SOD-123    Various Diode Packages               
+EXT_CONN            M04PTH        1X04       Header 4                             
+MOTOR               M02PTH        1X02       Standard 2-pin 0.1" header. Use with 
+R1       100R       R-US_R0603    R0603      RESISTOR, American symbol            
+R2       1k         R-US_R0603    R0603      RESISTOR, American symbol            
+T2       BC849      BC849         SOT23      NPN TRANSISTOR                       
+U$1      TSOP75S40F TSOP75S40F    TSOP75S40F                                      
